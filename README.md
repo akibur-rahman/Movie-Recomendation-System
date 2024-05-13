@@ -27,8 +27,6 @@ To Run this project on your local machine, first install dependency from require
  ```
 
 
-
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1006128900121833492/1239485084948631606/image.png)
-
+![App Screenshot](https://cdn.discordapp.com/attachments/1006128900121833492/1239485084948631606/image.png?ex=664317f0&is=6641c670&hm=4a08e5f369adf2d0b3a5b65e651a787ec2ce1a81f5b535080dd6540c6ca60a67&)
