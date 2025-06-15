@@ -1,7 +1,7 @@
 
 # Movie Recomendation System    
 
-This is a content based Movie Recomendation System that recoments similar movies based on their contents and metadata
+This is a content based Movie Recomendation System that recommends similar movies based on their contents and metadata
 
 # This represents the data in a high dimensional vector space and finds cosine similarity between them
 
